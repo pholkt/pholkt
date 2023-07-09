@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pholkt
 - 👀 I’m interested in improve
-- 🌱 I’m currently learning the basic
+- 🌱 I’m currently learning html,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nickname pholqt in discord
 
